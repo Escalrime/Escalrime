@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nils Gratepanche
 
-<!--
-**Escalrime/Escalrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant ingénieur en 4e année à CESI Lille, spécialité informatique. En recherche d'un stage en développement web, mobile ou data/IA.
 
-Here are some ideas to get you started:
+## À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Formation : cycle ingénieur informatique, CESI Lille
+- Domaines d'intérêt : développement web / full stack, développement mobile, data / IA
+- Stack : Python, JavaScript, Dart (Flutter), Java, PHP, C/C++, SQL, PostgreSQL
+- Outils : Git, VS Code, Cisco Packet Tracer, Centreon
+
+## Expériences
+
+**Développeur Full Stack - PassParlApp**
+Conception et développement du MVP d'une application mobile de géolocalisation (Flutter/Dart, Node.js, PostgreSQL/PostGIS), avec application des principes SOLID et Clean Code.
+
+**Développeur Web - Aquilab**
+Contribution au développement d'une interface logicielle utilisée par le personnel hospitalier, dans le secteur de l'informatique médicale.
+
+## Contact
+
+- LinkedIn : linkedin.com/in/nils-gratepanche-441a24347
+- Email : nils.gratepanche@gmail.com
