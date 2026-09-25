@@ -5,9 +5,9 @@
 ## À propos
 
 - Formation : cycle ingénieur informatique, CESI Lille
-- Domaines d'intérêt : développement web / full stack, développement mobile, data / IA
+- Domaines d'intérêt : data / IA, développement de jeux vidéo, développement web, développement mobile
 - Stack : Python, JavaScript, Dart (Flutter), Java, PHP, C/C++, SQL, PostgreSQL
-- Outils : Git, VS Code, Cisco Packet Tracer, Centreon
+- Outils : Git, VS Code, Cisco Packet Tracer, Fusion360
 
 ## Expériences
 
