@@ -1,6 +1,6 @@
 # Nils Gratepanche
 
-Étudiant ingénieur en 4e année à CESI Lille, spécialité informatique. En recherche d'un stage en développement web, mobile ou data/IA.
+Étudiant ingénieur en 4e année à CESI Lille, spécialité informatique. En recherche d'un stage en data/IA, développement web ou mobile.
 
 ## À propos
 
